@@ -27,3 +27,15 @@ End-to-end retail sales data analysis project using SQL and Python.
 - Analytical thinking
 - Business metric calculation
 - SQL querying for real-world datasets
+
+## Project Structure
+
+- sales_data.csv → Sample retail sales dataset
+- analysis.sql → SQL queries for KPI and aggregation analysis
+- retail_sales_analysis.ipynb → Python-based exploratory analysis and visualization
+
+## How to Run
+
+1. Load sales_data.csv into your SQL environment as table `sales_data`
+2. Run analysis.sql to compute KPIs
+3. Open retail_sales_analysis.ipynb for Python-based insights
