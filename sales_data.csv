@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,product,category,price,quantity
+1,101,2023-01-05,Laptop,Electronics,1200,1
+2,102,2023-01-07,Mouse,Electronics,25,2
+3,101,2023-02-10,Keyboard,Electronics,80,1
+4,103,2023-02-12,Shoes,Fashion,150,1
+5,104,2023-03-01,T-shirt,Fashion,30,3
+6,101,2023-03-15,Monitor,Electronics,300,1
+7,102,2023-04-02,Headphones,Electronics,100,1
+8,103,2023-04-10,Jacket,Fashion,200,1
+9,105,2023-05-05,Tablet,Electronics,400,1
+10,101,2023-05-15,Webcam,Electronics,90,1
